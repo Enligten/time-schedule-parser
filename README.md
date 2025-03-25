@@ -10,4 +10,5 @@ File function introduction
 3. process_data.py: the training data is tokenized and padded to the same length.
 4. fine_tuning.py: Fine-tuning the T5-small model.
 5. model_comparison.py: compare the output differences between the fine-tuned model and the original model.
-6. model_apply.py: in this file, you can experiment with fine-tuned model.
+6. model_apply.py: in this file, you can experiment with fine-tuned model(but the model file is still incomplete).
+7. test_result.py: Here are some test results.
