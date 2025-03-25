@@ -1,0 +1,36 @@
+********************************
+Please enter your schedule: There is a class in the school in the morning
+********************************
+time|location|event
+morning, school, class
+********************************
+Please enter your schedule: I will learn Japanese in dormitory in the afternoon
+********************************
+time|location|event
+afternoon, dormitory, Japanese learning
+********************************
+Please enter your schedule: I'm going to Lhasa on Saturday
+********************************
+time|location|event
+Saturday Lhasa, Lhasa, trip
+********************************
+Please enter your schedule: I'd like to shopping in T&T at 6:00PM
+********************************
+time|location|event
+6:00PM, T&T, shopping
+********************************
+Please enter your schedule: I'd like to shopping at 6:00       
+********************************
+time|location|event
+6:00, NONE, shopping
+********************************
+Please enter your schedule: I'd like to T&T supermarket at 6:00 
+********************************
+time|location|event
+6:00, T&T supermarket, event
+********************************
+Please enter your schedule: Tomorrow at 3pm, I will go for a walk in the park with my friends.           
+********************************
+time|location|event
+3pm, park, walk
+********************************
